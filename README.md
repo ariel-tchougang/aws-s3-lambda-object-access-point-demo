@@ -99,5 +99,5 @@ aws s3api get-object --bucket $OLAP_ARN --key "mission-report-001.json?clearance
 First empty the created S3 bucket, then run:
 
 ```bash
-sam delete --stack-name secret-agent-data-redactor
+sam delete --stack-name secret-agent-data-redactor  # or your custom stack name
 ```
