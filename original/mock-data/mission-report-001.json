@@ -1,0 +1,41 @@
+{
+  "reportId": "MR-2024-001",
+  "classification": "TOP_SECRET",
+  "title": "Operation Nightfall Intelligence Report",
+  "missionCode": "NIGHTFALL_ALPHA_7",
+  "agentNames": [
+    "Agent Sarah Mitchell",
+    "Agent James Rodriguez", 
+    "Agent Chen Wei"
+  ],
+  "dates": [
+    "2024-01-15T14:30:00Z",
+    "2024-01-16T09:15:00Z",
+    "2024-01-17T22:45:00Z"
+  ],
+  "specificLocations": [
+    "Embassy Building, 123 Diplomatic Row, Prague",
+    "Safe House Bravo, Coordinates: 50.0755°N, 14.4378°E",
+    "Extraction Point Charlie, Wenceslas Square Metro Station"
+  ],
+  "generalLocation": "Prague, Czech Republic",
+  "operationalDetails": [
+    "Initial surveillance confirmed target presence at primary location",
+    "CLASSIFIED_METHOD used to bypass security systems",
+    "Intelligence package successfully retrieved from vault",
+    "Secondary asset provided additional confirmation of target activities",
+    "CLASSIFIED_METHOD employed for secure extraction"
+  ],
+  "contactInfo": [
+    "Local Asset: Viktor Novak, +420-555-0123",
+    "Emergency Contact: Maria Santos, +1-555-CIA-HELP",
+    "Handler: Director Thompson, secure-line-7749"
+  ],
+  "summary": "Mission completed successfully. Target intelligence retrieved without compromise. All agents returned safely to base.",
+  "threatLevel": "MODERATE",
+  "nextActions": [
+    "Analyze retrieved intelligence package",
+    "Debrief all field agents within 48 hours",
+    "Coordinate with Prague station for follow-up operations"
+  ]
+}

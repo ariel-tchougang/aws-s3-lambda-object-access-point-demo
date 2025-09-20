@@ -1,0 +1,10 @@
+version = 0.1
+[default.deploy.parameters]
+stack_name = "secret-agent-data-redactor"
+resolve_s3 = true
+s3_prefix = "secret-agent-data-redactor"
+region = "us-east-1"
+profile = "default"
+confirm_changeset = false
+capabilities = "CAPABILITY_IAM"
+image_repositories = []
