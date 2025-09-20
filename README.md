@@ -28,6 +28,7 @@ Agent Request → S3 Object Lambda Access Point → Lambda Function → Redacted
 - `src/index.js` - Lambda function for data redaction
 - `mock-data/mission-report-001.json` - Sample classified report
 - `deploy.sh` / `deploy.ps1` - Deployment and testing scripts (Bash/PowerShell)
+- `samconfig.toml.template` - AWS SAM deployment configuration template
 
 ## Deployment
 
