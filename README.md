@@ -100,4 +100,10 @@ First empty the created S3 bucket, then run:
 
 ```bash
 sam delete --stack-name secret-agent-data-redactor  # or your custom stack name
+
+sam delete --region your-aws-region --stack-name secret-agent-data-redactor  # or your custom stack name
+
+sam delete --profile your-aws-profile --stack-name secret-agent-data-redactor  # or your custom stack name
+
+sam delete --region your-aws-region --profile your-aws-profile --stack-name secret-agent-data-redactor  # or your custom stack name
 ```
